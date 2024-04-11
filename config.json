@@ -5,17 +5,24 @@
     "canOpenSettings": true,
     "canCreate": false,
     "canImportXml": false,
-    "canRemoveLatest": true,
-    "theme":"hc",
+    "canRemoveLatest": false,
+    "theme": "hc",
     "autoSave": true,
-    "dropbox": false,
-    "webdav": false,
-    "gdrive": false,
-    "onedrive": false,
-    "localServerStorage": true
+    "dropbox": true,
+    "webdav": true,
+    "gdrive": true,
+    "onedrive": true,
+    "localServerStorage": true,
+    "logout_session": true
   },
-  "plugins": [{
-    "url": "plugins/local-server",
-    "skipSignatureValidation": true
-  }]
+  "plugins": [
+    {
+      "url": "plugins/local-server",
+      "skipSignatureValidation": true
+    },
+    {
+      "url": "plugins/Logout_Session",
+      "skipSignatureValidation": true
+    }
+  ]
 }

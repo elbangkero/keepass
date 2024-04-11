@@ -1,0 +1,18 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "Logout_Session",
+  "description": "Logout local server session",
+  "author": {
+    "name": "Elbangkero",
+    "email": "gajelomo16@gmail.com",
+    "url": "https://github.com/elbangkero"
+  },
+  "resources": {
+    "js": "HLxFvX2/aFogPBPw+QhlTbvEoxIik8Zhrtl9BEPQl2MKhQprg1OVxAfPxWomy80I5OsT8AjKEPoSf9sL0q0NzciPGo3zpZb3XF7ixp9QKZxuQCRcdj6smUn6egiEtyskkpByfyaNvxfmi5LPJurVwlzPi3UNy/t0wuWJCQiRYnENHIzbNpvZaVqYu9twcMv1/qiNBXvBnJJlGZ4kHbreDB41Z0kVJkVVKB5Imd77CDis3+2iJoHcpkI9gtRWUKXQmObzVUvORMnN9bIygEO4Fhcg2/IdkEg/iVXEdRS2F1MBdYDkC5j7GpdQau2vfAdHsbEuNaILh5p/9wpEd5Eyug==",
+    "css": "JWKO+pNaUcrzSzU6uurFuvleDjLxG5klL6jPXnw4gIzthmBJkQU4ESkrnjcFiDUZOg94Sy9H1oOHAltH5eLlwclgEqBlZ0cdXwlrQwoPXuBIReT6HCff0D0tWqUbDWg4mLTbUmVC3x/8GXy/QOaQlvdywMX8m97DpF7gqyKJPy4M8z5TpI76caiRN8spxd/Fm9ly9K9GTmu5f9FRl6ilwGXdzF4wHBxXwcB1gfxxjkOPtivsjeuIZ8jbciKvwFS+xQc3SoyVSEsOQ8h1JzaqX62zpRc9SkXzOYW+NhxKb0H12HlJ1UCd3vTpk2f0ZirOCu++1WFhIa5AxTbq72ZW6w=="
+  },
+  "license": "MIT",
+  "url": "https://github.com/elbangkero",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAty3iwB7NG0j2yDkHlqciWMzxYPAsvGxBDQGcTkFVLJxW5xNHM0D6USnB/kvkLgfkOuC7LdvnyLzXcTlF0HFiGQhYwtfncXhEmiAUpGhhGCzV41TIKKisMQ1REgnhXfyGQstmEDi+TTr5zVFon8P9hMpQA/Ju/adJK4LB6P+j+wF2TJHW6l6nPT4j5eXTM1b86nQn2eoXueAiba7V+GHTUytZ02Q8MX7drBJH1pEjLnqx+FDJuFoMajj/W8/8hC/bPhsNk5pIKf80X+15NTrzovTocoHqsr6qGxNwREcrqa78eUR2M0uNveyHc7VxmSSDKK91eX3OXya9ybkhJ8OBbQIDAQAB"
+}
